@@ -28,10 +28,10 @@ All of the materials mentioned can be found by following the links below:
 
 Weekly Camp Daily Schedules
 
-[Lectures](../tree/master/Lectures)
+[Lectures](https://github.com/sbechara/muscle-car/tree/master/Lectures "Click here to see ideas for lectures")
 
 Activities
 
 Materials Lists
 
-[Code](../tree/master/Code)
+[Code](https://github.com/sbechara/muscle-car/tree/master/Code "Click here to access the code necessary to program your muscle car!")
