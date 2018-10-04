@@ -26,17 +26,12 @@ Dolly Ricapor:
 
 All of the materials mentioned can be found by following the links below:
 
-## Weekly Camp Daily Schedules
-go here
+Weekly Camp Daily Schedules
 
-## Lectures
-Post links to lectures here
+[Lectures](../tree/master/Lectures)
 
-## Activities
-All the activities go here
+Activities
 
-## Materials Lists
-Go here
+Materials Lists
 
-## Code
-Go here
+[Code](../tree/master/Code)
