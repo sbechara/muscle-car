@@ -2,8 +2,6 @@
 
 The Muscle Car is an open-source camp that provides an interactive introduction to electronic prototyping and human physiology. The camp is centered on designing, building, and testing an electromyogram and radio controlled (eRC) car. The camp is open-source and all of the materials developed are free for use and modification with very few restrictions.
 
-![student-working](https://github.com/sbechara/muscle-car/tree/master/Images/student_working.jpg)
-
 ### Goals
 
 There are two goals with the camp 
