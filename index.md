@@ -26,12 +26,12 @@ Dolly Ricapor:
 
 All of the materials mentioned can be found by following the links below:
 
-Weekly Camp Daily Schedules
+* Weekly Camp Daily Schedules
 
-[Lectures](https://github.com/sbechara/muscle-car/tree/master/Lectures "Click here to see ideas for lectures")
+* [Lectures](https://github.com/sbechara/muscle-car/tree/master/Lectures "Click here to see ideas for lectures")
 
-Activities
+* Activities
 
-Materials Lists
+* [Code](https://github.com/sbechara/muscle-car/tree/master/Code "Click here to access the code necessary to program your muscle car!")
 
-[Code](https://github.com/sbechara/muscle-car/tree/master/Code "Click here to access the code necessary to program your muscle car!")
+* [Materials Lists *Note: External Site](https://www.sparkfun.com/wish_lists/144483 "Everything you need to build your own muscle car")
