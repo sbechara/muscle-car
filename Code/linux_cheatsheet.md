@@ -26,5 +26,5 @@ One of the cool things about linux is that it comes with a great manual that wil
 |:-------:|:------------------|
 |`nano`   | A simple, easy to use, and lightweight text editor. Use it to write your next school paper!|
 |`apt`    | A program that allows you to install, remove, or update software |
-|`cmartix`| You are the one Neo |
+|`cmatrix`| You are the one Neo |
 |`arduino`| A program that allows us to program the Arduino microcontroller|
